@@ -13,6 +13,12 @@ A Django-based web application that allows users to log daily moods, track emoti
 
 ## Screenshots
 
+![Insights Page](https://github.com/user-attachments/assets/053c2c38-ab79-4617-84a0-2c1cb9dd651c)
+![Filter Log Page](https://github.com/user-attachments/assets/7ce2d377-da47-4094-8bf1-7a5c450fe3e3)
+![Mood Chart Summary 2](https://github.com/user-attachments/assets/921e09ac-1e9a-4b31-9d06-cdb81d16b1e8)
+![Mood Chart Summary 1](https://github.com/user-attachments/assets/edb74638-b543-4987-aa46-0313a49d4400)
+![Log Mood Page](https://github.com/user-attachments/assets/a20e0601-0981-4caa-a141-00ae58a29f5a)
+
 
 ## Tech Stack
 
