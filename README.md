@@ -13,7 +13,6 @@ A Django-based web application that allows users to log daily moods, track emoti
 
 ## Screenshots
 
-> Include screenshots here if possible, like homepage, mood log form, and chart page
 
 ## Tech Stack
 
@@ -40,3 +39,6 @@ pip install -r requirements.txt
 # Run migrations and start the server
 python manage.py migrate
 python manage.py runserver
+
+# To use seed data(optional)
+python manage.py seed_moods
