@@ -1,0 +1,29 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Bytecode & logs
+*.log
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Django static/media (if dynamically generated)
+staticfiles/
+media/
+
+# Ignore migrations if needed
+**/migrations/*.py
+!**/migrations/__init__.py
