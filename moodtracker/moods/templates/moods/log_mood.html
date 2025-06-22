@@ -31,7 +31,7 @@
         <form method="post" class="p-4 border rounded shadow-sm bg-light">
             {% csrf_token %}
             <label for="id_date">Date:</label>
-            <input type="date" name="date" id="id_date" max="{{ today }}" value="{{ form.date.value|default:'' }}">
+            <input type="date" name="date" id="id_date" max="{{ today }}" value="{{ form.date.value|default:today }}">
             <br>
             <br>
             {{ form.mood.label_tag }} {{ form.mood }}
