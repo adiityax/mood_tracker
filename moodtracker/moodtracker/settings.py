@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qcbp$0+8+dr$&scpln@vkxz$7^v2r8c0)fguriebyo9-irfdg#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'moodtracker-wbef.onrender.com']
 
 
 # Application definition
